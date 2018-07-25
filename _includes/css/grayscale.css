@@ -374,3 +374,12 @@ body {
 .navbar-brand img{
   width: 120px;
 }
+
+.nav ul, .nav li{
+  height: 75px;
+}
+
+.nav a{
+  height: 100%;
+  line-height: 44px;
+}
